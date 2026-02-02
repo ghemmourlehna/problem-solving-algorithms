@@ -88,6 +88,5 @@ A graphical interface built with **Pygame** allows:
 
 ---
 
-## ▶️ Running the Project
-Clone the repository:
+
 
