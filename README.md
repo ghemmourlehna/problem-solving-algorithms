@@ -4,7 +4,6 @@
 
 
 
-
 Ce dépôt contient trois projets de résolution de problèmes réalisés dans le cadre du module Problem Solving – Master 1 Visual Computing.
 
 Les projets utilisent différentes techniques d’Intelligence Artificielle pour résoudre des puzzles classiques.
